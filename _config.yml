@@ -32,6 +32,9 @@ repository: brickthroughcreations/brickthroughcreations.github.io
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  
+# Google Analytics
+google_analytics: G-H3P1TTTW09
 
 # Exclude from processing.
 # The following items will not be processed, by default.
